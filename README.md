@@ -1,5 +1,5 @@
 # sample-service
-HTTP REST service to get learned with!
+HTTP REST service to get learned with.
 
 
 ## Run
